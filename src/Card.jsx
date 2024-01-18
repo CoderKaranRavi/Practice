@@ -1,5 +1,5 @@
 import React from 'react'
-//props --> property
+//props --> property//
 function Card(props) {
   return <>
     <div className="col-lg-4">
